@@ -1,0 +1,15 @@
+/*
+Theme Name: Headless WordPress Theme
+Theme URI: https://github.com/omnitaskba/headless-theme
+Author: Omnitask
+Author URI: https://omnitask.ba/
+Description: A WordPress Theme which doesn't show any content in the frontend and is completely blank. Since the Backend (exampledomain.com/wp-content) is still available, you can use this WordPress Theme as headless CMS for any Javascript Framework you like (i.e. via RestAPI).
+Version: 1.0.0
+License: GNU General Public License v3 or later
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Tags: featured-images, theme-options,
+Text Domain: headless-theme
+Requires at least: 4.6
+Tested up to: 6.5
+Requires PHP: 7.3
+*/
